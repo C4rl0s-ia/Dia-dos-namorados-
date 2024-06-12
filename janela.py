@@ -1,13 +1,13 @@
 import turtle
 
 window = turtle.Screen()
-window.bgcolor("yellow")
+window.bgcolor("blue")
 window.title("Para o amor da minha via, Day!")
 
 
 pen = turtle.Turtle()
-pen.color("red")
-pen.fillcolor("red")
+pen.color("green")
+pen.fillcolor("green")
 pen.pensize(2)
 pen.speed(9)
 
